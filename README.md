@@ -1,2 +1,2 @@
 # Vrinda-Store-Data-Analysis
-Tranformed Raw data into Clean data and using Pivot Tables Created a Interactive Dashboard of vrinda store KPI's.
+Using Data cleaning methods and by using Pivot Tables Created a Interactive Dashboard finding KPI's of vrinda store.
